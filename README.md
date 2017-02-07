@@ -31,3 +31,4 @@ Tagi do przepisów
 Panel administracyjny
 Dodawanie zdjęć do przepisów
 Dodawanie filmów?
+Wyszukiwanie przepisu na podstawie składników
